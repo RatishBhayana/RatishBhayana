@@ -10,6 +10,7 @@ Engineering student who loves coding and turning ideas into practical projects.
 # 📊 GitHub Stats:
 
 Total 100+ Contributions
+
 ![](https://github-readme-stats.vercel.app/api?username=RatishBhayana&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=RatishBhayana&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=RatishBhayana&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
